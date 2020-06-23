@@ -30,7 +30,7 @@ a {
   text-align: center;
 }
 
-.top-wrapper h1 {
+.top-wrapper h1, h2 {
   opacity: 0.8;
   font-size: 50px;
   letter-spacing: 5px;
@@ -38,7 +38,8 @@ a {
 }
 
 .top-wrapper img {
-
+  height: 50%;
+  width: 50%;
 }
 
 .btn {

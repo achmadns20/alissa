@@ -1,8 +1,20 @@
 /* Untuk Smartphone */
 @media all and (max-width: 670px) {
   
+  .top-wrapper img {
+    width: 75%;
+    height: 75%;
+  }
+
   .top-wrapper h1 {
     font-size: 24px;
     line-height: 36px;
   }
+
+  .top-wrapper h2 {
+    font-size: 14px;
+    line-height: 36px;
+  }
+
+
 }
